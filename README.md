@@ -1,14 +1,5 @@
 <div align='center'>
 <h1>Language Representation Favored Zero-Shot Cross-Domain Cognitive Diagnosis, KDD 2025</h1>
-<a href='https://aiedu.ecnu.edu.cn/'>Shanghai Institute of AI Education</a>, <a href='http://www.cs.ecnu.edu.cn/'>School of Computer Science and Technology</a>,  and <a href='https://ed.ecnu.edu.cn/'> <br/>Faculty of Education</a>, East China Normal University
-
-<br/>
-<br/>
-<a href='https://github.com/ECNU-ILOG/LRCD'><img src='https://img.shields.io/badge/Project-Page-Green'></a>
-<a href='https://github.com/ECNU-ILOG/LRCD/tree/main/paper/Language Representation Favored Zero-Shot Cross-Domain Cognitive Diagnosis.pdf'><img src='https://img.shields.io/badge/Paper-PDF-orange'></a>
-
-
-
 
 <br/>
 <img src="img/Framework.svg" width="800" alt="Framework Image" />
