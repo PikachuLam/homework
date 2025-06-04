@@ -2,6 +2,11 @@
 <h1>Language Representation Favored Zero-Shot Cross-Domain Cognitive Diagnosis, KDD 2025</h1>
 
 <br/>
+<br/>
+<a href='https://github.com/ECNU-ILOG/LRCD'><img src='https://img.shields.io/badge/Project-Page-Green'></a>
+<a href='https://github.com/ECNU-ILOG/LRCD/tree/main/paper/Language Representation Favored Zero-Shot Cross-Domain Cognitive Diagnosis.pdf'></a>
+
+<br/>
 <img src="img/Framework.svg" width="800" alt="Framework Image" />
 
 </div>
