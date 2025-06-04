@@ -4,7 +4,7 @@
 <br/>
 <br/>
 <a href='https://github.com/ECNU-ILOG/LRCD'><img src='https://img.shields.io/badge/Project-Page-Green'></a>
-<a href='https://github.com/ECNU-ILOG/LRCD/tree/main/paper/Language Representation Favored Zero-Shot Cross-Domain Cognitive Diagnosis.pdf'></a>
+<a href='https://github.com/ECNU-ILOG/LRCD/tree/main/paper/Language Representation Favored Zero-Shot Cross-Domain Cognitive Diagnosis.pdf'><img src='https://img.shields.io/badge/Paper-PDF-orange'></a>
 
 </div>
 
